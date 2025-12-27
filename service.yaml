@@ -8,5 +8,5 @@ spec:
     app: zomato
   ports:
   - port: 5000
-    targetPort: 5000
+    targetPort: 8000
     nodePort: 30007
